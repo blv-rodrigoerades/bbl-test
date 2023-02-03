@@ -1,0 +1,21 @@
+{
+  "font": {
+    "size": {
+      "scale": {
+        "value": "1.125",
+        "type": "fontSizes",
+        "description": "Major 2nd"
+      }
+    }
+  },
+  "grid": {
+    "gap": {
+      "value": "{dimension.xl}",
+      "type": "spacing"
+    },
+    "margin": {
+      "value": "{dimension.xxl}",
+      "type": "spacing"
+    }
+  }
+}

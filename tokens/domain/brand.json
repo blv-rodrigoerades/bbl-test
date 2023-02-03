@@ -1,0 +1,25 @@
+{
+  "font": {
+    "size": {
+      "scale": {
+        "value": "1.25",
+        "type": "fontSizes",
+        "description": "Major 3rd"
+      },
+      "xs": {
+        "value": "ceil({font.size.sm}/{font.size.scale})",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "grid": {
+    "gap": {
+      "value": "{dimension.xxl}",
+      "type": "spacing"
+    },
+    "margin": {
+      "value": "{dimension.gt}",
+      "type": "spacing"
+    }
+  }
+}
